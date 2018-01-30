@@ -1,0 +1,15 @@
+main {
+  position: absolute;
+  left:280px;
+  top:0;
+  width: calc(100% - 280px);
+  height: 100%;
+  border: 15px solid #3b495c;
+  border-left: 0;
+  background: #000;
+}
+
+main > button {
+  background: #0000ff;
+  color:#fff;
+}
